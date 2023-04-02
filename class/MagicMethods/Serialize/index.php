@@ -24,4 +24,4 @@ class A
 $a = new A();
 
 $serialized = serialize($a);
-var_dump($serialized);
+var_dump($serialized  );
