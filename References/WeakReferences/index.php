@@ -11,3 +11,7 @@ $messages = [
 var_dump((object) $messages);
 $weakRef = WeakReference::create($class);
 var_dump($weakRef->get());
+
+/**
+ *
+ */
